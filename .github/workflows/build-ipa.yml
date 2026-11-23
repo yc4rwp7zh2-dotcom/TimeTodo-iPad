@@ -14,7 +14,7 @@ permissions:
 jobs:
   build:
     name: Build TimeTodo.app (no signing)
-    runs-on: macos-14
+    runs-on: macos-15
     timeout-minutes: 25
 
     steps:
